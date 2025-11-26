@@ -19,12 +19,6 @@ This script follows the **Implementing OAuth for the Apple School and Business M
 You can refer to the official [Apple documentation](https://developer.apple.com/documentation/apple-school-and-business-manager-api/implementing-oauth-for-the-apple-school-and-business-manager-api) for further details on the OAuth implementation.
 ---
 
-> ⚠ **Important:**  
-> These scripts were reviewed and optimized using **AI assistance**.  
-> Before deploying in production, **make sure to test** all scripts thoroughly in a safe environment.
-
----
-
 ## Requirements
 
 To run this script, you will need to generate the following credentials from the Apple Business or School Manager portal:
