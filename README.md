@@ -1,7 +1,6 @@
 # Apple Business and School Manager API
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-ABM%20%7C%20ASM-black)
 ![Status](https://img.shields.io/badge/Status-Public%20Release-success)
 ![AI Enhanced](https://img.shields.io/badge/AI%20Optimized-Code%20Reviewed%20%26%20Enhanced-purple)
@@ -204,7 +203,6 @@ Before using in production:
 
 # 📝 License
 
-This project is licensed under the **MIT License**.  
 Free to use, modify, and redistribute.
 
 
