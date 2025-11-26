@@ -71,8 +71,8 @@ pip install requests authlib pycryptodome cryptography
 Clone and run any script:
 
 ```bash
-git clone https://github.com/karthikeyan-mac/AppleBusinessManager.git
-cd AppleBusinessManager
+git clone https://github.com/karthikeyan-mac/AppleBusinessANDSchoolManagerAPI.git
+cd AppleBusinessANDSchoolManagerAPI
 python3 Get_Organization_Devices.py
 ```
 
