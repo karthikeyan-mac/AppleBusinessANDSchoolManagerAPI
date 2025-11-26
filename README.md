@@ -1,6 +1,6 @@
 # Apple Business and School Manager API
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-ABM%20%7C%20ASM-black)
 ![Status](https://img.shields.io/badge/Status-Public%20Release-success)
 ![AI Enhanced](https://img.shields.io/badge/AI%20Optimized-Code%20Reviewed%20%26%20Enhanced-purple)
