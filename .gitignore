@@ -1,0 +1,9 @@
+.env
+AxM_Token.cache
+AxM_Variables.env
+EMBL-EBI.pem
+serialnumbers.txt
+tamper_cache_token.py
+.DS_Store
+*.csv
+/__pycache__
