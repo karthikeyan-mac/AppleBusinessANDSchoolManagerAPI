@@ -7,3 +7,4 @@ tamper_cache_token.py
 .DS_Store
 *.csv
 /__pycache__
+*.der
