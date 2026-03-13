@@ -8,3 +8,4 @@ tamper_cache_token.py
 *.csv
 /__pycache__
 *.der
+*.pem
