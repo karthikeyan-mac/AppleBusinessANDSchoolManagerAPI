@@ -134,10 +134,10 @@ Example content:
 APPLE_CLIENT_ID=BUSINESSAPI.xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 APPLE_KEY_ID=YOUR_KEY_ID
 APPLE_SCOPE=business.api    # or school.api
-PRIVATE_KEY_FILE=private-key.pem
+APPLE_PRIVATE_KEY_PATH=private-key.pem
 
 # Fernet encryption key used to encrypt the cached access token
-FERNET_KEY=YOUR_FERNET_KEY_HERE
+AXM_FERNET_KEY=YOUR_FERNET_KEY_HERE
 ```
 
 ### Generating a Fernet Key
